@@ -1,2 +1,5 @@
+---
 layout: none
-permalink: .well-known/challenge_letsencrypt
+permalink: .well-known/acme-challenge/GmKnTc5hIt7zS5Tr3mzCn4e0J1Kr9UuOLIY0RXVJe_A
+---
+GmKnTc5hIt7zS5Tr3mzCn4e0J1Kr9UuOLIY0RXVJe_A.KF_CFinORPh4DpIOOHIFMQLRaozo9hqI9ztdhXKO_XM
