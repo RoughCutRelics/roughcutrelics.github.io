@@ -1,5 +1,5 @@
 ---
-layout: none
+layout: plaintext
 permalink: .well-known/acme-challenge/NJH8gtLS1qPGb21agZZLbx2IWAQ_5jdH6lEsBSH7UoM
 ---
 NJH8gtLS1qPGb21agZZLbx2IWAQ_5jdH6lEsBSH7UoM.KF_CFinORPh4DpIOOHIFMQLRaozo9hqI9ztdhXKO_XM
